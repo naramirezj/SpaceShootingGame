@@ -3,7 +3,7 @@ Final project for Computer Graphics in OpenGL and Kotlin.
 A 2D Scene displaying an alien shooting game where the user controls a spaceship that can shoot projectiles to aliens.
 
 ## Project Presentation
-Alien Shooting Game.jpg
+
 ![Slide 1](slides/Alien%20Shooting%20Game.jpg)
 
 ![Slide 2](slides/Alien%20Shooting%20Game_1.jpg)
